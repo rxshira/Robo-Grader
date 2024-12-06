@@ -3,6 +3,7 @@ Make sure that you have all the files for the RoboGrader before running, includi
 Also, make sure that in the same space you run the src code, you also download another file of videos. Here is the link to acesss this file of videos:
 https://drive.google.com/drive/folders/1-U6JkVNn4xdKyY5nEVX28MaSZBmGpL1o?usp=sharing
 
+Please be patient with this program! It might run a little slower than expected becuase of all the image analysis. There will be a clear change once a video is uploaded/selected, so just wait for it. 
 
 
 As you run it, to begin a new project, click 'New Project' OR ‘Example Project’
