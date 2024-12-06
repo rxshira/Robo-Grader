@@ -4,6 +4,7 @@ The first part of my project is from the backend. Simply put, given any video of
 
 As for the user interface of this program, it can be broken into several parts. First, the user will draw the path that they plan for the tracked block to take, which is going to be the “reference solution”. This will be the expected path of the block, which will later be compared to the path the block actually took. Then, the user will upload the video of the robot moving the blue block, or choose a file from their device. Then, the program will work in the background to track the robot's movement and create the path that it took. Once the program has finished drawing out the path of the block, it will compare the path the block took to the sample solution. Based on how close the actual path of the block was to the sample solution, the program will give the user a percentage accuracy score, as well as overlaying the sample solution with the actual path the block took, to show the user where they went wrong. 
 
+======
 
 Run instructions:
 
@@ -23,6 +24,8 @@ Please install the following additonal modules: Moviepy, Pillow, EasyGui.
 
 As you run it, to begin a new project, click 'New Project' OR ‘Example Project’
 
+======
+
 NEW PROJECT:
 
 Here, you can first type in the title for your project by clicking on the 'project title.' Make sure that it is containing only Letter and Numbers up to a max of 14 chars.
@@ -41,7 +44,7 @@ After that, draw your path from the red 'start' box to the green 'end' box. Once
 
 Then, click on the 'compare paths' button, and see your percent success! You can also click on the 'see image' button to see how your drawing compares with the actual path the robot took. 
 
-
+======
 
 EXAMPLE PROJECT:
 
@@ -57,15 +60,18 @@ After that, draw your path from the red 'start' box to the green 'end' box. Once
 
 Then, click on the 'compare paths' button, and see your percent success! You can also click on the 'see image' button to see how your drawing compares with the actual path the robot took. 
 
-*** A note on art: ***
-
-All art in this project is my own. I drew it myself on IbisPaint on my iPad, and then uploaded it to Pinterest to get the image URL. 
-
+======
 
 Shortcuts!
 When on the Drawing menue, you can click the following keys:
 - 'a' == get list of all the points in the drawing
 - 'g' == run the comparison between the video and the drawing early, giving path comparison with image.
+
+======
+
+*** A note on art: ***
+
+All art in this project is my own. I drew it myself on IbisPaint on my iPad, and then uploaded it to Pinterest to get the image URL. 
 
 *** A note on AI use: ***
 
