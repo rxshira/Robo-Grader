@@ -1,7 +1,19 @@
+My project title is: RobotAutoGrader. The idea of it is separated into two parts.
+
+The first part of my project is from the backend. Simply put, given any video of a robot moving from one place to another, where the other place is its “end goal”, the computer program will track the movement of the robot. The program will be able to find where the robot (which is red) and the block it moves (which is blue) is in the image as well as where “end goal” (which is green) is based on their colors. If the blue covers the green (so that the green is no longer in the image, or is at least overlapping with the moved block’s position), the path of the robot was successful. The program will also draw out the path that the block the robot moves takes, in order to use it for the next step, which is, the user interface portion. 
+
+As for the user interface of this program, it can be broken into several parts. First, the user will draw the path that they plan for the tracked block to take, which is going to be the “reference solution”. This will be the expected path of the block, which will later be compared to the path the block actually took. Then, the user will upload the video of the robot moving the blue block, or choose a file from their device. Then, the program will work in the background to track the robot's movement and create the path that it took. Once the program has finished drawing out the path of the block, it will compare the path the block took to the sample solution. Based on how close the actual path of the block was to the sample solution, the program will give the user a percentage accuracy score, as well as overlaying the sample solution with the actual path the block took, to show the user where they went wrong. 
+
+
+Run instructions:
+
+
 Make sure that you have all the files for the RoboGrader before running, including all the preloaded videos to the program.
 
-Also, make sure that in the same space you run the src code, you also download another file of videos. Here is the link to acesss this file of videos:
+Also, make sure that in the same space you run the src code, you also download another file of videos. Here is the link to acesss the required video files:
 https://drive.google.com/drive/folders/1-U6JkVNn4xdKyY5nEVX28MaSZBmGpL1o?usp=sharing
+
+Put these videos under the "videos" folder.
 
 Please be patient with this program! It might run a little slower than expected becuase of all the image analysis. There will be a clear change once a video is uploaded/selected, so just wait for it. 
 
