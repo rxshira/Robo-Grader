@@ -63,7 +63,7 @@ Then, click on the 'compare paths' button, and see your percent success! You can
 ======
 
 Shortcuts!
-When on the Drawing menue, you can click the following keys:
+When on the Drawing menu, you can click the following keys:
 - 'a' == get list of all the points in the drawing
 - 'g' == run the comparison between the video and the drawing early, giving path comparison with image.
 
