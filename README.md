@@ -17,6 +17,9 @@ Put these videos under the "videos" folder.
 
 Please be patient with this program! It might run a little slower than expected becuase of all the image analysis. There will be a clear change once a video is uploaded/selected, so just wait for it. 
 
+Please install the following additonal modules: Moviepy, Pillow, EasyGui.
+
+
 
 As you run it, to begin a new project, click 'New Project' OR ‘Example Project’
 
@@ -58,6 +61,11 @@ Then, click on the 'compare paths' button, and see your percent success! You can
 
 All art in this project is my own. I drew it myself on IbisPaint on my iPad, and then uploaded it to Pinterest to get the image URL. 
 
+
+Shortcuts!
+When on the Drawing menue, you can click the following keys:
+- 'a' == get list of all the points in the drawing
+- 'g' == run the comparison between the video and the drawing early, giving path comparison with image.
 
 *** A note on AI use: ***
 
