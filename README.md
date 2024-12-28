@@ -1,4 +1,4 @@
-This is my final project for one of my classes, 15-112, that I took in the Fall of 2024. Enjoy!
+This is my final project for one of my classes, 15-112, that I took in the Fall of 2024. It runs using the CMU Graphics Library. Enjoy!
 
 ======
 
