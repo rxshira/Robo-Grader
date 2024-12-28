@@ -1,3 +1,7 @@
+This is my final project for one of my classes, 15-112, that I took in the Fall of 2024. Enjoy!
+
+======
+
 My project title is: RobotAutoGrader. The idea of it is separated into two parts.
 
 The first part of my project is from the backend. Simply put, given any video of a robot moving from one place to another, where the other place is its “end goal”, the computer program will track the movement of the robot. The program will be able to find where the robot (which is red) and the block it moves (which is blue) is in the image as well as where “end goal” (which is green) is based on their colors. If the blue covers the green (so that the green is no longer in the image, or is at least overlapping with the moved block’s position), the path of the robot was successful. The program will also draw out the path that the block the robot moves takes, in order to use it for the next step, which is, the user interface portion. 
