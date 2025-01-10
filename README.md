@@ -1,5 +1,7 @@
 This is my final project for one of my classes, 15-112, that I took in the Fall of 2024. It runs using the CMU Graphics Library. Enjoy!
 
+Video demo: https://youtu.be/Usi98rKWxsU?si=pCLHWtipT3UlFgRY
+
 ======
 
 My project title is: Robo-Grader. The idea of it is separated into two parts.
